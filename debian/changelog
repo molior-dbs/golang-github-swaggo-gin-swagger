@@ -1,8 +1,10 @@
-golang-github-swaggo-gin-swagger (1.6.0-3) UNRELEASED; urgency=medium
+golang-github-swaggo-gin-swagger (1.6.0-4) UNRELEASED; urgency=medium
 
   * Initial release (Closes: TODO)
   * add build depends
   * add dependency
   * remove example code
+  * debian: exclude example code
+  * Revert "remove example code"
 
- -- lynx <neolynx@gmail.com>  Tue, 01 Oct 2024 17:04:08 +0200
+ -- lynx <neolynx@gmail.com>  Tue, 01 Oct 2024 17:33:52 +0200
