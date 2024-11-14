@@ -11,6 +11,7 @@ Build-Depends: debhelper-compat (= 13),
                golang-github-gin-gonic-gin-dev,
                golang-github-stretchr-testify-dev,
                golang-golang-x-net-dev,
+               golang-github-swaggo-files-dev,
                golang-github-swaggo-swag-dev,
                git
 Standards-Version: 4.6.0
